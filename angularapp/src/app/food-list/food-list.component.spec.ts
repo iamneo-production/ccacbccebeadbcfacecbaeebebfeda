@@ -19,3 +19,4 @@ describe('FoodListComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
